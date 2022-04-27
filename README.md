@@ -24,3 +24,7 @@ Contributors: Lamont
 The following is needed to run the test: node index.js
 # Questions 
 If you have any questions about the reportError, open an issue or contact stoverlee@gmail.com
+
+YOUTUBE VIDEO https://www.youtube.com/watch?v=MXI1kxrmmfk
+
+![Untitled_ Apr 27, 2022 5_20 PM](https://user-images.githubusercontent.com/97686342/165633360-46456f49-88d6-473b-b673-444ae1eb439c.gif)
