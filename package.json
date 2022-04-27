@@ -1,7 +1,7 @@
 {
-  "name": "readme-generator",
+  "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "This generates README",
+  "description": "This generates README file for your github repository.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/sirmojosodope/README-Generator-.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,7 +17,6 @@
   },
   "homepage": "https://github.com/sirmojosodope/README-Generator-#readme",
   "dependencies": {
-    "inquirer": "^8.2.2",
-    "node": "^17.7.2"
+    "inquirer": "^8.2.3"
   }
 }
